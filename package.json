@@ -58,7 +58,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bmadcode/BMAD-METHOD.git"
+    "url": "git+https://github.com/elismatiQ/BMAD-METHOD.git"
   },
   "engines": {
     "node": ">=20.0.0"
