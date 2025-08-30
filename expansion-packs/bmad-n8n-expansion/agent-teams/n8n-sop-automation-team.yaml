@@ -1,0 +1,19 @@
+# <!-- Powered by BMAD™ Core -->
+bundle:
+  name: SOP automation team
+  icon: 🛠️
+  description: This team design, develop and implement automated systems and workflows that streamline the execution of standard operating procedures (SOPs).
+agents:
+  - analyst
+  - project-manager
+  - bmad-orchestrator
+  - automation-engineer
+  - technical-writer
+  - quality-assurance
+workflows:
+  - sop-audit.md
+  - sop-prioritization.md
+  - sop-creation.md
+  - sop-review.md
+  - sop-training.md
+  - sop-automation.md

@@ -1,0 +1,8 @@
+# <!-- Powered by BMAD™ Core -->
+name: bmad-n8n-expert
+version: 1.0.0
+short-title: n8n Workflow Automation Pack
+description: >-
+  Workflow architect and AI systems designer for BMad Method - n8n focused
+author: David Elisma (elismatiQ)
+slashPrefix: bmad-n8n
